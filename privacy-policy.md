@@ -1,5 +1,8 @@
-Privacy Policy
-Effective Date: [February 14, 2025]
+# Privacy Policy
+
+Skill Catalyst respects your privacy.
+
+Effective Date: [January 01, 2026]
 Skill Catalyst we respect your privacy and is committed to protecting your personal information. This
 Privacy Policy explains how we collect, use, and share your personal data when you use our app, a
 peer-to-peer skill exchange platform connecting verified computer engineers via chat and video call.
